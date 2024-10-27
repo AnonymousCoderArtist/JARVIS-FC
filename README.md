@@ -3,7 +3,7 @@
   <img src="https://yt3.googleusercontent.com/6j3seN-LTZCSKWNQFEc6JbwXg_8TH7U5EFmiLvePy3kja6nTJpOaNNRQQYD9fhrvmtZDQvCl4p4=s160-c-k-c0x00ffffff-no-rj" alt="Project Logo" width="150">
   
   <!-- Project name and description -->
-  <h1>Jarvis - FC</h1>
+  <h1>Jarvis - FC 🤖</h1>
 
   <!-- Info from GitHub -->
   <p>
@@ -31,22 +31,21 @@
 
 <!-- Series Link -->
 <div align="center">
-  <h1>Save this Series for regular Updates <a href="https://www.youtube.com/playlist?list=PLcb7hDy97wSKHMnu5iq_0zVhkuc0oJ_Py">JARVIS 3.0 - Function Calling</a></h1>
+  <h1>Save this Series for regular Updates 💾 <a href="https://www.youtube.com/playlist?list=PLcb7hDy97wSKHMnu5iq_0zVhkuc0oJ_Py">JARVIS 3.0 - Function Calling</a></h1>
 </div>
 
 ---
 
 ## 📑 Table of Contents
 - [About the Project](#about-the-project)
-- [Features](#-features)
-- [Directory Structure](#-directory-structure)
-- [Installation](#-installation)
-- [Prerequisites](#-prerequisites)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-- [Acknowledgments](#-acknowledgments)
+- [✨ Features](#-features)
+- [📂 Directory Structure](#-directory-structure)
+- [⚙️ Installation](#-installation)
+- [Prerequisites](#prerequisites)
+- [🚀 Usage](#-usage)
+- [🤝 Contributing](#-contributing)
+- [📞 Contact](#-contact)
+- [🙏 Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -54,9 +53,12 @@
 
 Jarvis is an advanced AI system that leverages Groq for fast, efficient function calling to process, understand, and respond to complex instructions seamlessly. Designed for high-demand computational environments, Jarvis integrates Groq's highly parallelized architecture to enable near-instantaneous task execution, intelligent decision-making, and dynamic adaptability.
 
+**Important Note:** 
+This project's code is released incrementally, day by day, alongside the corresponding video releases. You might need to download folders individually as they become available, following the video series. Each day's code will be added to a new folder (e.g., "DAY 1", "DAY 2", etc.) and will be updated one day after the video is released.
+
 ---
 
-### 🌟 Features
+### ✨ Features
 - 🤖 AI-powered conversational interface
 - 📁 File operations (read, write, list, delete)
 - 💻 System information retrieval
@@ -68,35 +70,37 @@ Jarvis is an advanced AI system that leverages Groq for fast, efficient function
 
 ---
 
-## 🚀 Installation
+## ⚙️ Installation
 
-1. **Clone the repository**:
-   - Go to the Folder you want to install Jarvis in and open it with command prompt.
-   - Paste these commands one by one.
+1. **Clone the repository**: 
+   - Go to the folder where you want to install Jarvis and open it with the command prompt.
+   - Paste these commands one by one:
    ```bash
    git clone https://github.com/SreejanPersonal/JARVIS-FC.git
-   cd JARVIS-AGI
+   cd JARVIS-AGI 
    ```
 
-3. **Install the required packages**:
+2. **Install the required packages**:
    ```bash
    pip install -r requirements.txt
    ```
 
-### 🧠 Prerequisites
-List any prerequisites:
-- Python
+### Prerequisites
+- Python 3.7 or higher
 
-## 🖥️ Usage
 
-1. **Run the main script**:
+## 🚀 Usage
+
+1. **Navigate to the Day's Folder:** 
+    - Use the command prompt to go into the specific day's folder (e.g., `cd DAY 1`).
+2. **Run the main script**:
    ```bash
    python main.py
    ```
 
 ## 🤝 Contributing
 
-We welcome contributions to improve JARVIS-FC. To contribute, follow these steps:
+We welcome contributions to improve JARVIS-FC! To contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
